@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+leads.db
+hubspot_leads_clean.csv
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+.npm
+dist/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

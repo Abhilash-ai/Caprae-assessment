@@ -1,0 +1,52 @@
+first_name,last_name,title,company,domain,email,phone,linkedin_url,industry,company_size,city,country
+Sarah,Connor,VP of Sales,Cyberdyne Systems,cyberdyne.io,sarah.connor@cyberdyne.io,+1-555-0101,https://linkedin.com/in/sarah-connor,B2B SaaS,250,Austin,USA
+Sarah,Connor,VP of Sales,Cyberdyne Systems Inc,cyberdyne.io,sarah.connor@cyberdyne.io,+1-555-0101,https://linkedin.com/in/sarah-connor,B2B SaaS,250,Austin,USA
+Marcus,Vance,Chief Revenue Officer,Apex Logix,apexlogix.com,marcus@apexlogix.com,+1-555-0102,https://linkedin.com/in/marcus-vance,Enterprise Software,450,San Francisco,USA
+Marcus,Vance,CRO,Apex Logix LLC,apexlogix.com,marcus.v@apexlogix.com,,https://linkedin.com/in/marcus-vance,Enterprise Software,450,San Francisco,USA
+Elena,Rostova,Director of Demand Generation,FinScale Tech,finscale.co,elena.r@finscale.co,+1-555-0103,https://linkedin.com/in/elena-rostova,FinTech,120,New York,USA
+David,Chen,Sales Development Representative,FinScale Tech,finscale.co,david.chen@finscale.co,+1-555-0104,https://linkedin.com/in/david-chen-sdr,FinTech,120,New York,USA
+Michael,Chang,Founder & CEO,CloudPulse AI,cloudpulse.ai,info@cloudpulse.ai,+1-555-0105,https://linkedin.com/in/michael-chang-ai,Artificial Intelligence,35,Seattle,USA
+Amanda,Holloway,Head of People & HR,CloudPulse AI,cloudpulse.ai,amanda@cloudpulse.ai,+1-555-0106,https://linkedin.com/in/amanda-holloway,Artificial Intelligence,35,Seattle,USA
+Robert,Sterling,Managing Director,Sterling Logistics,sterlinglogistics.net,contact@sterlinglogistics.net,+1-555-0107,,Logistics & Supply Chain,800,Chicago,USA
+Robert,Sterling,Managing Director,Sterling Logistics Group,sterlinglogistics.net,r.sterling@sterlinglogistics.net,+1-555-0107,https://linkedin.com/in/robert-sterling-log,Logistics & Supply Chain,820,Chicago,USA
+Jessica,Taylor,VP of Marketing,Nexora Health,nexorahealth.com,jessica@nexorahealth.com,+1-555-0108,https://linkedin.com/in/jessica-taylor-mkt,Healthcare / HealthTech,180,Boston,USA
+Daniel,Kim,Chief Technology Officer,Nexora Health,nexorahealth.com,daniel.k@nexorahealth.com,+1-555-0109,https://linkedin.com/in/daniel-kim-tech,Healthcare / HealthTech,180,Boston,USA
+Samantha,Reed,Account Executive,OmniChannel Commerce,omnichannel.shop,samantha.reed@omnichannel.shop,+1-555-0110,https://linkedin.com/in/samantha-reed,E-Commerce,60,Miami,USA
+Alex,Mercer,Growth Marketing Manager,SaaSMetrics Labs,saasmetrics.io,alex.mercer@saasmetrics.io,,https://linkedin.com/in/alex-mercer,B2B SaaS,85,Denver,USA
+Alex,Mercer,Growth Marketing Manager,SaaSMetrics Labs,saasmetrics.io,alex.mercer@saasmetrics.io,,https://linkedin.com/in/alex-mercer,B2B SaaS,85,Denver,USA
+Brian,O'Connor,VP of Revenue Operations,DataFlow Engine,dataflowengine.com,brian@dataflowengine.com,+1-555-0112,https://linkedin.com/in/brian-oconnor,Data & Analytics,310,Atlanta,USA
+Rachel,Green,Sales Intern,Central Perk Media,centralperk.media,rachel@centralperk.media,+1-555-0113,https://linkedin.com/in/rachel-green,Digital Media,15,New York,USA
+Thomas,Wright,Chief Operating Officer,Vanguard Robotics,vanguardrobotics.com,sales@vanguardrobotics.com,+1-555-0114,https://linkedin.com/in/thomas-wright-coo,Robotics & Hardware,520,Detroit,USA
+Olivia,Bennett,Senior Director of Enterprise Sales,HyperScale Cloud,hyperscalecloud.com,olivia.bennett@hyperscalecloud.com,+1-555-0115,https://linkedin.com/in/olivia-bennett,B2B SaaS,950,San Jose,USA
+Kevin,Flynn,Co-Founder & Chief Product Officer,Encom Grid,encomgrid.com,kevin@encomgrid.com,+1-555-0116,https://linkedin.com/in/kevin-flynn-cpo,Cybersecurity,75,Los Angeles,USA
+Natalie,Portman,Director of Business Development,Galaxy Bio,galaxybio.org,admin@galaxybio.org,,https://linkedin.com/in/natalie-galaxy,Biotech,210,San Diego,USA
+Jason,Bourne,Security Consultant,Treadstone Advisory,treadstone.co,jason.b@treadstone.co,+1-555-0118,,Professional Services,40,Washington,USA
+Lucas,Scott,VP of Global Sales,Tree Hill Apparel,treehillapparel.com,lucas@treehillapparel.com,+1-555-0119,https://linkedin.com/in/lucas-scott,Retail & Apparel,150,Raleigh,USA
+Chloe,Decker,Head of Strategic Partnerships,Lux Media Group,luxmediagroup.com,chloe.d@luxmediagroup.com,+1-555-0120,https://linkedin.com/in/chloe-decker,Media & Entertainment,95,Los Angeles,USA
+Vikram,Patel,VP of Engineering,Krypton Core,kryptoncore.io,vikram.patel@kryptoncore.io,+1-555-0121,https://linkedin.com/in/vikram-patel-core,DevOps & Infrastructure,340,Austin,USA
+Liam,Neeson,VP of Customer Success,Taken Protection,takenprotection.com,liam@takenprotection.com,+1-555-0122,https://linkedin.com/in/liam-neeson,Cybersecurity,160,Dallas,USA
+Ethan,Hunt,Head of Commercial Sales,IMF Global,imfglobal.com,ethan.hunt@imfglobal.com,+1-555-0123,https://linkedin.com/in/ethan-hunt,B2B SaaS,600,New York,USA
+Ethan,Hunt,Head of Commercial Sales,IMF Global Solutions,imfglobal.com,ethan.hunt@imfglobal.com,+1-555-0123,https://linkedin.com/in/ethan-hunt,B2B SaaS,600,New York,USA
+Claire,Redfield,Director of Clinical Sales,Umbrella BioTech,umbrellabiotech.com,claire@umbrellabiotech.com,,https://linkedin.com/in/claire-redfield,Healthcare / HealthTech,1100,Raccoon City,USA
+Leon,Kennedy,Head of Federal Accounts,Umbrella BioTech,umbrellabiotech.com,leon.k@umbrellabiotech.com,+1-555-0125,https://linkedin.com/in/leon-kennedy,Healthcare / HealthTech,1100,Washington,USA
+Bruce,Wayne,President & CEO,Wayne Enterprises,wayneenterprises.com,bruce@wayneenterprises.com,+1-555-0126,https://linkedin.com/in/bruce-wayne,Conglomerate / Defense,12000,Gotham,USA
+Lucius,Fox,Chief Technology Officer,Wayne Enterprises,wayneenterprises.com,lfox@wayneenterprises.com,+1-555-0127,https://linkedin.com/in/lucius-fox,Conglomerate / Defense,12000,Gotham,USA
+Peter,Parker,Freelance Content Strategist,Daily Bugle News,dailybugle.com,spidey@dailybugle.com,,https://linkedin.com/in/peter-parker,Media & Publishing,30,New York,USA
+Tony,Stark,Chief Innovation Officer,Stark Tech Dynamics,starktech.io,tony@starktech.io,+1-555-0129,https://linkedin.com/in/tony-stark-ai,DeepTech / Hardware,4500,Malibu,USA
+Pepper,Potts,Chief Executive Officer,Stark Tech Dynamics,starktech.io,pepper.potts@starktech.io,+1-555-0130,https://linkedin.com/in/pepper-potts,DeepTech / Hardware,4500,Malibu,USA
+Diana,Prince,VP of International Partnerships,Themyscira Cultural,themyscira.org,diana@themyscira.org,+1-555-0131,https://linkedin.com/in/diana-prince,Non-Profit / NGO,50,Washington,USA
+Arthur,Curry,Director of Marine Operations,Atlantis Oceanics,atlantisocean.com,helpdesk@atlantisocean.com,+1-555-0132,https://linkedin.com/in/arthur-curry,Maritime & Logistics,320,Miami,USA
+Barry,Allen,Senior Data Scientist,Central City Forensics,ccforensics.gov,barry.allen@ccforensics.gov,+1-555-0133,https://linkedin.com/in/barry-allen,Government / Research,500,Central City,USA
+Wanda,Maximoff,Director of Product Design,Westview Digital,westviewdigital.com,wanda.m@westviewdigital.com,+1-555-0134,https://linkedin.com/in/wanda-maximoff,Design & Creative,45,Westview,USA
+Stephen,Strange,Chief Medical Officer,Metro Health Network,metrohealth.org,s.strange@metrohealth.org,+1-555-0135,https://linkedin.com/in/stephen-strange,Healthcare / HealthTech,2800,New York,USA
+Natasha,Romanoff,VP of Strategic Intelligence,Red Room Analytics,redroomanalytics.com,inquiries@redroomanalytics.com,+1-555-0136,https://linkedin.com/in/natasha-romanoff,Cybersecurity,140,San Francisco,USA
+Clint,Barton,Operations Lead,Hawkeye Logistics,hawkeyelogistics.com,clint@hawkeyelogistics.com,+1-555-0137,https://linkedin.com/in/clint-barton,Logistics & Supply Chain,80,Des Moines,USA
+Carol,Danvers,VP of Global Expansion,Starforce Aerospace,starforceaero.com,carol@starforceaero.com,+1-555-0138,https://linkedin.com/in/carol-danvers,Aerospace & Defense,850,Colorado Springs,USA
+Sam,Wilson,Director of Community Outreach,Shield Initiatives,shieldinitiatives.org,sam.wilson@shieldinitiatives.org,+1-555-0139,https://linkedin.com/in/sam-wilson,Non-Profit / NGO,65,New Orleans,USA
+Bucky,Barnes,VP of Field Operations,Shield Initiatives,shieldinitiatives.org,bucky@shieldinitiatives.org,+1-555-0140,https://linkedin.com/in/bucky-barnes,Non-Profit / NGO,65,Brooklyn,USA
+Scott,Lang,Chief Commercial Officer,Pym Quantum SaaS,pymquantum.com,scott@pymquantum.com,+1-555-0141,https://linkedin.com/in/scott-lang,B2B SaaS,95,San Francisco,USA
+Hope,Van Dyne,CEO,Pym Quantum SaaS,pymquantum.com,hope@pymquantum.com,+1-555-0142,https://linkedin.com/in/hope-vandyne,B2B SaaS,95,San Francisco,USA
+T'Challa,King,Executive Director,Wakanda Design Group,wakandadesign.org,contactus@wakandadesign.org,+1-555-0143,https://linkedin.com/in/tchalla-wdg,Advanced Manufacturing,650,Oakland,USA
+Shuri,Tech,Head of AI & Innovation,Wakanda Design Group,wakandadesign.org,shuri@wakandadesign.org,+1-555-0144,https://linkedin.com/in/shuri-tech,Advanced Manufacturing,650,Oakland,USA
+Invalid,Lead,Account Manager,Broken Domain Corp,,invalid-email@,+1-555-0145,,,0,Remote,
+Missing,Contact,Sales Director,Ghost Enterprise,ghost.io,,,https://linkedin.com/in/ghost-lead,B2B SaaS,150,Austin,USA
