@@ -2,6 +2,9 @@
 > **Caprae Capital Full Stack Developer AI-Readiness Challenge — Path A Submission**  
 > **Candidate:** Abhilash Maiske  
 > **Reference Product:** [SaaSQuatch Leads](https://www.saasquatchleads.com)  
+> **GitHub Repository:** [https://github.com/Abhilash-ai/Caprae-assessment](https://github.com/Abhilash-ai/Caprae-assessment)  
+> **Video Walkthrough:** [Google Drive Video Walkthrough](https://drive.google.com/file/d/19Smd6vTCvfBZRX3Xzml0Fj4XFC7vMMbT/view?usp=drivesdk)  
+> **Interactive Notebook:** [demo_notebook.ipynb](https://github.com/Abhilash-ai/Caprae-assessment/blob/main/demo_notebook.ipynb)  
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg)](https://fastapi.tiangolo.com)
