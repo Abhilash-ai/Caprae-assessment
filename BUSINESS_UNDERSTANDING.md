@@ -2,6 +2,8 @@
 **Caprae Capital Full Stack Developer AI-Readiness Challenge**  
 **Candidate:** Abhilash Maiske  
 **Role:** Full Stack Developer  
+**GitHub Repository:** [https://github.com/Abhilash-ai/Caprae-assessment](https://github.com/Abhilash-ai/Caprae-assessment)  
+**Video Walkthrough:** [https://drive.google.com/file/d/19Smd6vTCvfBZRX3Xzml0Fj4XFC7vMMbT/view?usp=drivesdk](https://drive.google.com/file/d/19Smd6vTCvfBZRX3Xzml0Fj4XFC7vMMbT/view?usp=drivesdk)  
 **Date:** September 2026  
 
 ---
